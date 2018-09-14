@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("AdminFinder")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("Microsoft")>
+<Assembly: AssemblyCompany("NYAN CAT")>
 <Assembly: AssemblyProduct("AdminFinder")>
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2018")>
+<Assembly: AssemblyCopyright("Copyright © 2018")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>

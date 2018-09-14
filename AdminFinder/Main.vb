@@ -4,7 +4,7 @@ Module Main
 
 
     Sub Main()
-        Console.Title = "AdminFinder For Windows : Nyan Cat"
+        Console.Title = "AdminFinder v0.1 For Windows : Nyan Cat"
 1:
         Console.Clear()
         Console.WriteLine("++-++-++-++-++-++-++-++")
