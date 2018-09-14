@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/fq3Q63t.gif">
+<img src="https://i.imgur.com/Bu2nkFA.gif">
 
 # AdminFinder v0.1
 
